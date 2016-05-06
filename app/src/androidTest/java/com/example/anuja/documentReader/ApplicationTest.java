@@ -1,4 +1,4 @@
-package com.example.anuja.pratilipiass2;
+package com.example.anuja.documentReader;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
